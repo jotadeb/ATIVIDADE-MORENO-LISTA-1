@@ -7,7 +7,7 @@ novo_salario: real
 novo_salario2: real
 
 
-// Calcule e apresente o novo sal�rio com um aumento de 28,5%.
+// Calcule e apresente o novo salário com um aumento de 28,5%.
 Inicio
 escreva("Qual seu nome?")
 leia(nome)
@@ -17,7 +17,7 @@ leia(salario)
 aumento <- 1 + 28.5/100
 novo_salario <- aumento * salario
 
-escreva("Você ganhou aumento, agora voc� ganha", novo_salario)
+escreva("Você ganhou aumento, agora você ganha", novo_salario)
 
 
 
