@@ -21,7 +21,7 @@ O nome do arquivo indica o tema ou o número do exercício.
 ### 🖥️ VSCode (Windows ou MAC)
 - Instale o VSCode: [Download aqui](https://code.visualstudio.com/);
 - Abra o VisualG;
-- Vá em Plugins e instale a Extensão [Design Líquido](https://marketplace.visualstudio.com/items?itemName=designliquido.designliquido-vscode)
+- Vá em Plugins e instale a Extensão [Design Líquido](https://marketplace.visualstudio.com/items?itemName=designliquido.designliquido-vscode);
 - Vá para Run and Debug;
 - Clicar em Executar e Depurar para rodar o programa.
 
